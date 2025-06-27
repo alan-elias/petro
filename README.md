@@ -2,8 +2,8 @@ Modelagem e Previsão da Demanda de Petróleo e Derivados nos EUA
 Este projeto explora a modelagem e previsão da demanda de petróleo e seus derivados (gasolina e destilados médios) nos EUA, com foco em técnicas de séries temporais e Machine Learning. Utilizamos dados históricos de demanda (product_supplied_thousandbarrel) fornecidos pela U.S. Energy Information Administration (EIA) e variáveis exógenas como o preço.
 
 ## 🚀 Linguagem e Dataviz
-Python
-Power BI
+- Python via Google Colab
+- Power BI
 
 ## 📊 Etapas da Modelagem
 
